@@ -21,7 +21,9 @@ public class Nested_IFELSE {
             if(b>=c){
                 System.out.println("B is the greatest");
             }
-
+            else{
+                System.out.println("C is the greatest");
+            }
         }
     }
 }
